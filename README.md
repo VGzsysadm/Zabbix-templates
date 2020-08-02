@@ -1,5 +1,5 @@
 ### Zabbix not oficial templates
-- Zabbix Infrastructure Linux General
+- Zabbix Linux Infrastructure
 ### Support
 - Blog: [sysadm.es](https://sysadm.es)
 - Public Github: [sysadm.es](https://github.com/VGzsysadm?tab=repositories)
